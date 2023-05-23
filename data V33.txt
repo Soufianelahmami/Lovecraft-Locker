@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"H.P. Lovecraft, the renowned American writer of weird and horror fiction, has left an indelible mark on the genre. ","photo2":"https://iili.io/Hg6QP1V.jpg"},
+  {"desc3":"His works, such as "The Call of Cthulhu," "At the Mountains of Madness," and "The Shadow over Innsmouth," have fascinated readers for decades with their unique blend of cosmic horror, intricate mythologies, and evocative storytelling.","photo3":"https://iili.io/Hg6QirB.jpg"},
+  {"desc4":" Lovecraft's creations have inspired countless authors, filmmakers, and artists, giving rise to what is now known as the Lovecraftian mythos.","photo4":"https://iili.io/Hg6Q6qQ.webp"},
+  {"desc5":"In recent years, a virtual treasure trove for Lovecraft enthusiasts has emerged in the form of the Lovecraft Locker, an online repository dedicated to exploring the mysteries and depths of Lovecraft's fiction.","photo5":"https://iili.io/Hg6QLdP.jpg"},
+  {"descd":"The Lovecraft Locker is a digital platform that serves as a hub for Lovecraftian literature, artwork, and discussion","photod":"https://iili.io/Hg6QQ71.jpg"}
    ]
  
 }
